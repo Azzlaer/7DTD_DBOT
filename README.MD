@@ -15,6 +15,10 @@ Incluye:
 -   Emojis y estilo temático de zombies\
 -   Registro interno de actividad
 
+## 🧩 IMAGENES DEL PROYECTO
+
+![Preview](https://github.com/Azzlaer/7DTD_DBOT/blob/main/imagen.png)
+
 ------------------------------------------------------------------------
 
 ## 📌 Funcionalidad Principal
